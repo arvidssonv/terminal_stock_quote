@@ -8,7 +8,7 @@ python program to get stock quotes in your terminal, using the yahoo_fin api.
 pip install yahoo_fin
 ```
 The input to the program is a file containing the company ticker and name separated by a comma.
-For example: storbank.txt
+For example:
 ```
 SWED-A.ST, Swedbank AB
 SHB-B.ST, Svenska Handelsbanken AB
